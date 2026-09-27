@@ -68,10 +68,3 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manuel080696&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel080696&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
-</p>
