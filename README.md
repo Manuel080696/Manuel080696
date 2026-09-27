@@ -13,7 +13,7 @@
 - 📄 Currículum completo -> [CV](https://github.com/Manuel080696/PruebasManu/blob/main/Manuel%20Nicolas%20Gonz%C3%A1lez%20Konstantinoff.pdf)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manuelgonz%C3%A1lezkonstantinoff/">
+  <a href="https://www.linkedin.com/in/manuelgonzalezkonstantinoff/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
