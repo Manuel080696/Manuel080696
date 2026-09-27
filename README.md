@@ -10,7 +10,7 @@
 - 🎓 FP de Grado Superior en Desarrollo de Aplicaciones Web (DAW) — IES Fernando Wirtz Suárez, A Coruña
 - 🌱 Repasando y profundizando en Java estos días
 - 📫 Contacto: **mgmanugonza@gmail.com**
-- 📄 Currículum completo -> [CV](https://github.com/Manuel080696/PruebasManu/blob/main/Manuel%20Nicolas%20Gonz%C3%A1lez%20Konstantinoff.pdf)
+- 📄 Currículum completo -> [CV](https://github.com/Manuel080696/PruebasManu/blob/main/CV_Manuel_Gonzalez.pdf)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuelgonzalezkonstantinoff/">
