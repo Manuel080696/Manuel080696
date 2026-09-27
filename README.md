@@ -1,7 +1,7 @@
 <h1 align="center">¡Buenas 👋! Soy Manuel González</h1>
 
 <p align="center">
-  <img src="https://github.com/Manuel080696/PruebasManu/blob/main/renderCompositingFinal.png?raw=true" alt="Manuel González"/>
+  <img src="assets/renderCompositingFinal.png" alt="Manuel González"/>
 </p>
 
 <h3 align="center">Desarrollador Web Full Stack</h3>
@@ -10,7 +10,7 @@
 - 🎓 FP de Grado Superior en Desarrollo de Aplicaciones Web (DAW) — IES Fernando Wirtz Suárez, A Coruña
 - 🌱 Repasando y profundizando en Java estos días
 - 📫 Contacto: **mgmanugonza@gmail.com**
-- 📄 Currículum completo -> [CV](https://github.com/Manuel080696/PruebasManu/blob/main/CV_Manuel_Gonzalez.pdf)
+- 📄 Currículum completo -> [CV](assets/CV_Manuel_Gonzalez.pdf)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuelgonzalezkonstantinoff/">
