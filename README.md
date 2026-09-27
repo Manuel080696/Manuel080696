@@ -1,98 +1,77 @@
+<h1 align="center">¡Buenas 👋! Soy Manuel González</h1>
 
-<h1 align="center" color="#7854db">¡Buenas 👋!, Soy Manuel González</h1>
-<img src="https://github.com/Manuel080696/PruebasManu/blob/main/renderCompositingFinal.png?raw=true"/>
-<h3 align="center">Desarrollo web - Desarrollador Web Frontend 👨‍💻</h3>
-
-- 🌱 Actualmente estoy estudiando **TypeScript**
-
-- 📫 ¿Cómo contactarme? **mgmanugonza@gmail.com**
-
-- 📄 Puedes saber más de mí en mi currículum -> <a href="https://github.com/Manuel080696/PruebasManu/blob/main/Manuel%20Nicolas%20Gonz%C3%A1lez%20Konstantinoff.pdf">CV</a>
-
-- ⚡ Algo gracioso sobre mí... Soy argentino y no tomo mate, sin embargo tomo té con leche (vine defectuoso)
-
-
-<hr/>
 <p align="center">
-<strong> Puedes saber más de mí, cliclando en:  </strong>
-<a href="https://www.linkedin.com/in/manuelgonz%C3%A1lezkonstantinoff/" >
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="jessica freire ponte" height="30"/> 
-</a>
+  <img src="https://github.com/Manuel080696/PruebasManu/blob/main/renderCompositingFinal.png?raw=true" alt="Manuel González"/>
 </p>
-<hr/>
-<ul>¿Quieres ver mis mejores proyectos? Te dejo los links:
- <li>
-  <h6>Clon de Instagram (front-end)- InstaClone!</h6> <a href="https://github.com/Manuel080696/FrontEndInstaClone">Ven a verme!</a>
- </li>
- <li>
-  <h6>Clon de Instagram (back-end)- InstaClone!</h6> <a href="https://github.com/Manuel080696/PROYECTO_HACKABOSS_CLON_INSTAGRAM">Ven a verme!</a>
- </li>
- <li>
-  <h6>Ahorcado Juego con JavaScript</h6> <a href="https://github.com/Manuel080696/HACKABOSS-Ahorcado">Ven a verme!</a>
- </li>
-</ul>
-<hr/>
 
+<h3 align="center">Desarrollador Web Full Stack</h3>
 
-<h3 align="left">Programas:</h3>
-<p align="left"> 
- <ul><h3>FRONT-END</h3>
-  <li><p>HTML5</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
-  </li>
-  <li><p>CC3</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> 
-  </li><p>JS</p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
-    <li><p>MATERIALIZE</p>
-<img src="https://www.geekandjob.com/uploads/wiki/956d3552aeed5764da2dbd657398f6a796686d6b.png" alt="materialize" width= "40" height="40"/> 
-  </li>
-  <li><p>REACT</p>
-   <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </li>
-  <li><p>TYPESRCIPT</p>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </li>
+- 🚀 En búsqueda activa de mi primera oportunidad como desarrollador Full Stack
+- 🎓 FP de Grado Superior en Desarrollo de Aplicaciones Web (DAW) — IES Fernando Wirtz Suárez, A Coruña
+- 🌱 Repasando y profundizando en Java estos días
+- 📫 Contacto: **mgmanugonza@gmail.com**
+- 📄 Currículum completo -> [CV](https://github.com/Manuel080696/PruebasManu/blob/main/Manuel%20Nicolas%20Gonz%C3%A1lez%20Konstantinoff.pdf)
 
- </ul>
-  <ul><h3>BACK-END</h3>
-  <li><p>EXPRESS</p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/120px-Expressjs.png" alt="express "  height="40"/> 
-  </li>
-  <li><p>NODE.JS</p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="NODE "  height="40"/> 
-  </li><p>MYSQL</p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" alt="MYSQL"  height="40"/> 
-  </li>
-  </ul>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manuelgonz%C3%A1lezkonstantinoff/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
- </ul>
+---
 
-  </ul>
-  <ul><h3>OTROS PROGRMAS</h3>
-  <li><p>FIGMA</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="figma"  height="40"/>
-  </li>
-   <li><p>POSTMAN</p>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" height= "40"/>
-   </li>
-  <li><p>FRAMER</p>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="FRAMER" height="40"/>
-  </li>
-  <li><p>GIT</p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </li>
-  <li><p>PHOTOSHOP</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
-  </li>
+### 🔧 Proyectos destacados
 
- </ul>
+- **[PokeCardHolo](https://github.com/Manuel080696/PokeCardHolo)** — Renderizado de cartas TCG estilo holográfico, solo con CSS.
+- **[Tienda](https://github.com/Manuel080696/Tienda)** — Tienda online de práctica construida con TypeScript.
+- **[InstaClone — Front-end](https://github.com/Manuel080696/FrontEndInstaClone)** · **[Back-end](https://github.com/Manuel080696/PROYECTO_HACKABOSS_CLON_INSTAGRAM)** — Clon de Instagram completo.
+- **[Ahorcado](https://github.com/Manuel080696/HACKABOSS-Ahorcado)** — Juego del ahorcado en JavaScript puro.
 
-   <ul><h3>SISTEMAS OPERATIVOS</h3>
-  <li><p>LINUX</p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </li>
-   <li><p>WINDOWS</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/250px-Windows_logo_and_wordmark_-_2021.svg.png" alt="WINDOWS" width="40" />
-   </li>
- </ul>
+---
+
+### 🧰 Tecnologías
+
+**Lenguajes**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Back-end**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Herramientas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+**Sistemas**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manuel080696&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel080696&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
+</p>
